@@ -16,6 +16,9 @@
   <a href="mailto:mail@haliskilic.com.tr">
     <img src="https://img.shields.io/badge/E--mail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
+  <a href="https://github.com/sponsors/haliskilic">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+  </a>
 </p>
 
 ## About Me
@@ -76,6 +79,32 @@ I build **embedded systems** — working where hardware meets software, from ide
   <img src="https://img.shields.io/badge/UAV-Aviation-5C2D91?style=flat-square" alt="UAV & Aviation" />
   <img src="https://img.shields.io/badge/Embedded-Firmware-444?style=flat-square" alt="Embedded Firmware" />
 </p>
+
+## Open-Source Projects
+
+| Project | What it does |
+|---|---|
+| [**HK.SDR**](https://github.com/haliskilic/hksdr) | Browser-based RTL-SDR scanner, decoder & signal-analysis lab (ADS-B, AIS, APRS, ACARS, …) |
+| [**ev-charger-bot**](https://github.com/haliskilic/ev-charger-bot) | Local, cloud-free Telegram monitor for Tuya / Smart Life EV chargers |
+| [**ser2net**](https://github.com/haliskilic/ser2net) | Web-managed, cross-platform serial-to-network bridge (raw / telnet / RFC2217, TLS) |
+| [**RP2350 USB Write Blocker**](https://github.com/haliskilic/rp2350-usb-write-blocker) | Firmware that turns the RP2350-GEEK into a hardware write-locked USB disk |
+| [**carcluster**](https://github.com/haliskilic/carcluster) | ESP32-S3 + LVGL digital instrument cluster for a 7" 800×480 display |
+| [**AgentTrader**](https://github.com/haliskilic/agenttrader) | OKX crypto trading bot with web dashboard and Telegram alerts |
+| [**Anketci**](https://github.com/haliskilic/anketci) | Kahoot-style real-time poll & quiz app |
+
+All of these are **open source under the AGPL-3.0** and free to use. A **commercial license** is available for closed-source products, devices or SaaS — <mail@haliskilic.com.tr>.
+
+## ❤️ Sponsor My Work
+
+If my tools save you time, please consider **[sponsoring me on GitHub](https://github.com/sponsors/haliskilic)**. Sponsorships pay for test hardware (SDR dongles, chargers, dev boards) and buy the evenings I spend maintaining these projects in English and Turkish.
+
+<p align="center">
+  <a href="https://github.com/sponsors/haliskilic">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+**Companies:** commercial licenses, custom firmware and integration work — <mail@haliskilic.com.tr>.
 
 ## GitHub Stats
 
