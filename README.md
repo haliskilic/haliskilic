@@ -19,6 +19,9 @@
   <a href="https://github.com/sponsors/haliskilic">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
   </a>
+  <a href="https://buymeacoffee.com/haliskilic">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
 </p>
 
 ## About Me
@@ -97,10 +100,14 @@ All of these are **open source under the AGPL-3.0** and free to use. A **commerc
 ## ❤️ Sponsor My Work
 
 If my tools save you time, please consider **[sponsoring me on GitHub](https://github.com/sponsors/haliskilic)**. Sponsorships pay for test hardware (SDR dongles, chargers, dev boards) and buy the evenings I spend maintaining these projects in English and Turkish.
+No GitHub account? You can also [buy me a coffee ☕](https://buymeacoffee.com/haliskilic).
 
 <p align="center">
   <a href="https://github.com/sponsors/haliskilic">
     <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-db61a2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://buymeacoffee.com/haliskilic">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </p>
 
